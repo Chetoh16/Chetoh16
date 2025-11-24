@@ -1,5 +1,5 @@
 # Hi!
-### About Me
+## About Me
 - My name is a palindrome and I code. That's all for now.
 
 ### Stuff I Use
@@ -14,6 +14,25 @@
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cetin-ege) 
+
+## Projects
+
+### [Song Adder](https://github.com/Chetoh16/song-adder)
+- A website that takes a playlist URL from a user and adds songs to it. (Using Flask and Spotipy)
+
+### [Watching You](https://github.com/Chetoh16/watching-you)
+- A React + Vite application for browsing, searching, and saving movies. The project integrates with the TMDB API and uses the Context API for global state management.
+
+### [Review My Review](https://github.com/Chetoh16/review-my-review)
+- A sentiment analysis model that evaluates a movie review and classifies it as either positive or negative.
+
+### [Remind-Me Bot](https://github.com/Chetoh16/remind-me-bot)
+- Discord Bot for keeping track of various things such as shows to watch and books to read.
+
+
+
+
+
 
 <!-- Credits to ( https://gprm.itsvg.in ) -->
 
