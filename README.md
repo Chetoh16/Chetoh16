@@ -1,5 +1,4 @@
 # Hi!
-## About Me
 - My name is a palindrome and I code. That's all for now.
 
 ### Stuff I Use
