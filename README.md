@@ -21,14 +21,14 @@
 
 ## Projects
 
-### [Song Adder](https://github.com/Chetoh16/song-adder)
-- A website that takes a playlist URL from a user and adds songs to it. (Using Flask and Spotipy)
-
 ### [HAPCA - Higher or Lower](https://github.com/Chetoh16/hapca-higher-or-lower)
 - A React-based web game, where users compare NHS hospital admissions data, with a Supabase backend for a real-time leaderboard system.
 
 ### [Watching You](https://github.com/Chetoh16/watching-you)
 - A React + Vite application for browsing, searching, and saving movies. The project integrates with the TMDB API and uses the Context API for global state management.
+
+### [Song Adder](https://github.com/Chetoh16/song-adder)
+- A website that takes a playlist URL from a user and adds songs to it. (Using Flask and Spotipy)
 
 ### [Review-My-Review](https://github.com/Chetoh16/review-my-review)
 - A sentiment analysis model that evaluates a movie review and classifies it as either positive or negative.
