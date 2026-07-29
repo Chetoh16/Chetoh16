@@ -39,11 +39,13 @@
 ### [Watching You](https://github.com/Chetoh16/watching-you)
 - An open source project for a React + Vite application for browsing, favouriting and managing your own movie watchlists.
 
+### [Face Pain Detector](https://github.com/Chetoh16/face-the-pain)
+- A Python tool that analyses live webcam feeds or video files to track facial motion and estimate real-time pain intensity using MediaPipe Face Landmarker and the Prkachin & Solomon Pain Intensity (PSPI) index.
+
 ### [Song Adder](https://github.com/Chetoh16/song-adder)
 - A website that takes a playlist URL from a user and adds songs to it. (Using Flask and Spotipy)
 
-### [Face Pain Detector](https://github.com/Chetoh16/face-the-pain)
-- A Python tool that analyses live webcam feeds or video files to track facial motion and estimate real-time pain intensity using MediaPipe Face Landmarker and the Prkachin & Solomon Pain Intensity (PSPI) index.
+
 
 
 
